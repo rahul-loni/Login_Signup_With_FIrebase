@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp"
+    tools:context=".Signup">
+    <EditText
+        android:id="@+id/txt_email"
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:hint="Enter Email"
+        android:inputType="text"/>
+    <EditText
+        android:id="@+id/txt_Password"
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:hint="Enter Password"
+        android:inputType="numberPassword"/>
+    <EditText
+        android:id="@+id/txt_CPassword"
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:hint="Enter CPassword"
+        android:inputType="numberPassword"/>
+    <Button
+        android:id="@+id/btn_signup"
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:text="Signup"
+        android:textSize="22sp"
+        />
+
+</LinearLayout>

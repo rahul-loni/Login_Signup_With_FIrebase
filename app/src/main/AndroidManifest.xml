@@ -12,10 +12,19 @@
         android:theme="@style/Theme.Login_Signup_With_Firebase"
         tools:targetApi="31">
         <activity
-            android:name=".Splash_Screen"
+            android:name=".ForgotPawword"
+            android:exported="false" />
+        <activity
+            android:name=".Login"
+            android:exported="false" />
+        <activity
+            android:name=".Signup"
             android:exported="false" />
         <activity
             android:name=".MainActivity"
+            android:exported="false" />
+        <activity
+            android:name=".Splash_Screen"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1008396774180",
+    "project_id": "login-signup-with-fireba-74251",
+    "storage_bucket": "login-signup-with-fireba-74251.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1008396774180:android:15344bb7bfdfa0a2c4e1b1",
+        "android_client_info": {
+          "package_name": "com.example.login_signup_with_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1008396774180-dvs7kn9d955l4g07q8avm6ou2ftobpjc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOOU9HuNlze6lCA1Vt9fi6xV9ZcZ1Vegk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1008396774180-dvs7kn9d955l4g07q8avm6ou2ftobpjc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
